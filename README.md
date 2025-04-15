@@ -31,7 +31,7 @@ To compress a file:
 ```
 To decompress a .Z file:
 ```
-./squeeze a <filename>.Z
+./squeeze e <filename>.Z
 ```
 
 > [!NOTE]  
